@@ -1,0 +1,14 @@
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net6.0\Week15OOPAndFiles.exe
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net6.0\Week15OOPAndFiles.deps.json
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net6.0\Week15OOPAndFiles.runtimeconfig.json
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net6.0\Week15OOPAndFiles.dll
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\bin\Debug\net6.0\Week15OOPAndFiles.pdb
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\Week15OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\Week15OOPAndFiles.AssemblyInfoInputs.cache
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\Week15OOPAndFiles.AssemblyInfo.cs
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\Week15OOPAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\Week15OOPAndFiles.dll
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\refint\Week15OOPAndFiles.dll
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\Week15OOPAndFiles.pdb
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\Week15OOPAndFiles.genruntimeconfig.cache
+C:\Users\Mattias2\Desktop\Marjana\Week15OOPAndFiles\Week15OOPAndFiles\obj\Debug\net6.0\ref\Week15OOPAndFiles.dll
